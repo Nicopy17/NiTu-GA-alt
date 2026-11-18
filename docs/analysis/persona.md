@@ -24,7 +24,7 @@ Stand: Analyse-Session vom 18.11.2026 · Team: Turahan, Nico · Fokus: Finanzber
 - Zeit für Entscheidungen und Gespräche gewinnen statt für die Formatierung.
 
 **Messbares Erfolgskriterium**
-- Offen, siehe Issue #3 (Vorschlag: Monatsbericht in unter 10 Minuten statt 3–4 Stunden).
+- Monatsbericht in ≤ 10 Minuten statt heute 3–4 Stunden, ohne dass eine Zahl von Hand korrigiert werden muss.
 
 ## 3 Frustrationen & heutige Lösung
 
@@ -49,4 +49,9 @@ Stand: Analyse-Session vom 18.11.2026 · Team: Turahan, Nico · Fokus: Finanzber
 
 ## Beziehungen zwischen den Feldern
 
-Noch offen (mindestens 2 Pfeile gefährdet / löst / unterstützt), siehe Issue #6.
+| Von | Beziehung | Nach |
+|---|---|---|
+| 4 Bedürfnis „Jede Zahl nachvollziehbar mit Quelle“ | **löst** | 3 „Angst vor Tippfehlern“ und „misstraut KI-Tools, die Zahlen erfinden“ |
+| 4 Bedürfnis „Daten bleiben im Unternehmen“ | **löst** | 3 „Firmendaten verlassen das Haus“ |
+| 4 Bedürfnis „Übernimmt vorhandene Layouts aus Vorlage“ | **unterstützt** | 2 Ziel „Zeit für Entscheidungen statt Formatierung“ |
+| 4 Fähigkeit „Will keine neuen Tools lernen“ | **gefährdet** | 2 Ziel „Berichte in Minuten aktualisieren“ |
